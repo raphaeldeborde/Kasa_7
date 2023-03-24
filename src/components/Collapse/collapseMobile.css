@@ -4,5 +4,9 @@
 	}
 	.bandeau-Collapse {
 		width: auto;
+		font-size:13px;
+	}
+	.corps-collapse {
+		font-size:12px;
 	}	
 }

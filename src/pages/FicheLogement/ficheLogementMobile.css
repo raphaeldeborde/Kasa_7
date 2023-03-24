@@ -2,9 +2,6 @@
     .adress-tag {
         width:100%;
     }
-    .adresse {
-	font-size:14px;
-    }
     .information {
         align-items:center;
         margin-top:0px;
@@ -13,6 +10,9 @@
     .titre {
         font-size:18px;
         line-height:25px;
+    }
+    .adresse {
+	font-size:14px;
     }
     .caroussel .slider {
         width:100%;
@@ -27,13 +27,22 @@
     .caroussel .gauche {
         left:15%;
     }
+    .agent p {
+	font-size: 12px;
+    }
+
+    .agent img {
+	width: 32px;
+	height: 32px;
+    }
     .agent-note {
+        width: 100%;
         flex-direction: row-reverse;
         justify-content: space-between;
-	width:100%;
     }
     .note {
-	justify-content:normal;
+        justify-content: normal;
+	margin:0px 1px 0px 1px;
     }
     .description-equippement {
         flex-direction: column;
@@ -50,5 +59,13 @@
     .tag p {
         padding:3px 5px 2px 5px;
         font-size:10px;
+    }
+    .rate {
+	width:98px;
+	height:18px;
+    }
+    .rate i {
+	width:15px;
+	heigth:15px;
     }
 }
