@@ -1,0 +1,226 @@
+.ficheLogement {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.caroussel {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+
+}
+
+.caroussel .slider {
+    width: 108%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 60px;
+    height: 415px;
+    margin-bottom: 10px;
+
+}
+
+.caroussel .gauche {
+    position: relative;
+    left: 6%;
+}
+
+.caroussel .droite {
+    position: relative;
+    right: 6%;
+}
+
+.caroussel .bullet {
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    font-weight: 100;
+    font-size: small;
+    display: flex;
+}
+
+.caroussel .bulle {
+    cursor: pointer;
+    color: #FF6060;
+}
+
+.caroussel img {
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.information {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+
+.adress-tag {
+    width: 50%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.titre-adresse {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.titre {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FF6060;
+}
+
+.adresse {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FF6060;
+}
+
+.agent-note {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.agent {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.agent p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #FF6060;
+    margin-right: 10px;
+
+}
+
+.agent img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50px;
+}
+
+.note {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.tag {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tag p {
+    height: 25px;
+    border-radius: 10px;
+    background: #FF6060;
+    padding: 3px 41px 2px 40px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.description-equippement {
+    width: 100%;
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.description {
+    width: 45%;
+}
+
+.equipement {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+.equipement .corps-collapse {
+    flex-direction: column;
+}
+
+.rate {
+    width: 196px;
+    height: 36px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rate span {
+    text-align: center;
+}
+
+.rate i {
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+
+.rate .fa-solid {
+    color: #FF6060;
+}
+
+.rate .fa-regular {
+    color: #E3E3E3;
+}

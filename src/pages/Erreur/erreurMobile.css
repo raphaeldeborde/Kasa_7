@@ -1,0 +1,16 @@
+@media screen and (max-width:767px) {
+        .numero-erreur{
+            font-size:98px;
+            line-height: 0px;
+        }
+        .erreur {
+            padding: 198px 25px 230px 25px;
+        }
+        .message {
+            font-size: 18px;
+            line-height: 25px;
+        }
+        .lien {
+            font-size: 14px;
+        }
+}

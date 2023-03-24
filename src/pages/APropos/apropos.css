@@ -1,0 +1,18 @@
+.section2 {
+    width: 100%;
+    height: 223px;
+    margin-bottom: 43px;
+    overflow: hidden;
+}
+
+.imageSection2 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+    filter: brightness(70%);
+}
+
+.collapseApropos {
+    margin:0% 0% 0% 5%;
+}

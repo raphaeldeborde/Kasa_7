@@ -1,0 +1,10 @@
+.App {
+    margin: 50px 75px 50px 75px;
+}
+.Feuille {
+    margin: 0px;
+    width:100%;
+}
+* {
+    font-family: Montserrat;
+}

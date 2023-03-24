@@ -1,0 +1,48 @@
+.Card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 56px 50px 56px 50px;
+    border-radius: 25px;
+    background-color: #f7f7f7;
+}
+
+.Card li {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 50px;
+    list-style-type: none;
+}
+
+.Card li:hover {
+    scale: 1.05;
+    cursor: pointer;
+    transition: scale ease-in-out 0.3s;
+}
+
+.Card li img {
+    object-fit: cover;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    filter: brightness(70%);
+}
+
+.Card li p {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 26px;
+    letter-spacing: 0em;
+    width: 200px;
+    height: 0px;
+    bottom: 60px;
+    padding: 0 20px 20px 20px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 25%;
+}

@@ -1,0 +1,8 @@
+.entete {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 68px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,47 @@
+@media screen and (max-width:767px) {
+    .adress-tag {
+        width:100%;
+    }
+    .information {
+        align-items:flex-end;
+        margin-top:0px;
+        flex-direction:column;
+    }
+    .titre {
+        font-size:18px;
+        line-height:25px;
+    }
+    .caroussel .slider {
+        width:100%;
+        height:265px;
+    }
+    .slider {
+        width:100%;
+    }
+    .caroussel .droite {
+        right:15%;
+    }
+    .caroussel .gauche {
+        left:15%;
+    }
+    .agent-note {
+        flex-direction: row-reverse;
+        justify-content: space-between;
+    }
+    .description-equippement {
+        flex-direction: column;
+    }
+    .description {
+        width: 100%;
+    }
+    .equipement {
+        width:100%;
+    }
+    .tag {
+        flex-wrap: nowrap;
+    }
+    .tag p {
+        padding:3px 5px 2px 5px;
+        font-size:10px;
+    }
+}

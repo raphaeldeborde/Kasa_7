@@ -1,0 +1,19 @@
+@media screen and (max-width:767px) {
+    .nav {
+        justify-content: space-evenly;
+    }
+
+    .accueil {
+        font-size: 12px;
+        font-weight: 200;
+        line-height: 29px;
+        text-transform: uppercase;
+    }
+
+    .apropos {
+        font-size: 12px;
+        font-weight: 200;
+        line-height: 29px;
+        text-transform: uppercase;
+    }
+}

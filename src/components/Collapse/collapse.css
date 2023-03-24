@@ -1,0 +1,39 @@
+.bandeau_Collapse {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 15px 18px 15px 18px;
+    height: 17px;
+    background-color: #FF6060;
+    border-radius: 5px;
+}
+
+.corps-collapse {
+    width: 90%;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    padding: 19px 18px 19px 18px;
+    margin: 0px 100px 10px 0px;
+    color: #FF6060;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.corps-collapse p {
+    margin:0px;
+}
+
+.fa-solid {
+    cursor: pointer;
+}

@@ -1,0 +1,59 @@
+.section1 {
+    width: 100%;
+    margin-bottom: 43px;
+}
+
+
+
+
+/* Mask Group 
+
+position: absolute;
+width: 1240px;
+height: 223px;
+left: 100px;
+top: 171px;
+
+
+
+ Background 
+
+position: absolute;
+width: 1240px;
+height: 223px;
+left: 100px;
+top: 171px;
+
+background: #F7F7F7;
+border-radius: 25px;
+
+
+ IMG 
+
+position: absolute;
+width: 1240px;
+height: 1875px;
+left: 100px;
+top: -655px;
+
+background: url(eric-muhr-P_XxsdVgtpQ-unsplash.jpg);
+
+
+ Background 
+
+position: absolute;
+width: 1240px;
+height: 223px;
+left: 100px;
+top: 171px;
+
+background: #000000;
+mix-blend-mode: darken;
+opacity: 0.3;
+border-radius: 25px;
+
+
+ Chez vous, partout et ailleurs 
+
+
+*/
