@@ -2,6 +2,7 @@ import Image1 from '../../datas/Image1.png'
 import React from 'react'
 import './section1.css'
 import './section1Mobile.css'
+import './section1Tablette.css'
 
 export default function Section() {
     return (
