@@ -1,5 +1,8 @@
 @media screen and (max-width:767px) {
 	.collapseApropos {
 		margin:0% 0% 0% 0%;
+	}
+	.bandeau-Collapse {
+		width: auto;
 	}	
 }

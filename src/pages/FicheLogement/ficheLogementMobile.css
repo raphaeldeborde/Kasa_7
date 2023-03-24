@@ -2,8 +2,11 @@
     .adress-tag {
         width:100%;
     }
+    .adresse {
+	font-size:14px;
+    }
     .information {
-        align-items:flex-end;
+        align-items:center;
         margin-top:0px;
         flex-direction:column;
     }
@@ -27,6 +30,10 @@
     .agent-note {
         flex-direction: row-reverse;
         justify-content: space-between;
+	width:100%;
+    }
+    .note {
+	justify-content:normal;
     }
     .description-equippement {
         flex-direction: column;
