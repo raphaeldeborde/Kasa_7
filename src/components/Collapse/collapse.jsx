@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 import '../Collapse/collapse.css';
+import '../Collapse/collapseMobile.css';
 
 const Collapse = (props) => {
     const nom = props.nom;
