@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 import "./carroussel.css"
+import "./carrousselMobile.css"
 
 
 const Carroussel = (props) => {
