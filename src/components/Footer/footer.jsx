@@ -1,5 +1,6 @@
 import React from 'react'
 import './footer.css'
+import './footerMobile.css'
 import Logofooter from "../../datas/LogoFooter.png"
 
 export default function Footer() {
