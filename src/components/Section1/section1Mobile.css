@@ -14,7 +14,7 @@
         display:block;
         text-align: left;
         width:185px;
-        left:36px;
+        padding-left:10%;
         bottom:72%;
     }
 }
