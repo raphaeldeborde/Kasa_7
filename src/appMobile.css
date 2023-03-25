@@ -1,5 +1,8 @@
 @media screen and (max-width:767px) {
     .App {
-        margin:20px;
+        padding:15px 25px 15px 25px;
+    }
+    .punchline {
+        padding-left:10%;
     }
 }
