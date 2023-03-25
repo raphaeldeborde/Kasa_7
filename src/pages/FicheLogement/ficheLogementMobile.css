@@ -4,8 +4,11 @@
     }
     .information {
         align-items:center;
-        margin-top:0px;
+        margin-top:20px;
         flex-direction:column;
+    }
+    .position {
+	 height: 5px;   
     }
     .titre {
         font-size:18px;
